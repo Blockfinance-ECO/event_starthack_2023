@@ -10,11 +10,7 @@
 <img width="180" alt="image" src="./images/Event/00/DSC00353-1920x1080.jpg"> |
 <img width="180" alt="image" src="./images/Event/00/DSC00358-1920x1080.jpg"> |
 <img width="180" alt="image" src="./images/Event/00/DSC00445-1920x1080.jpg"> |
-<img width="180" alt="image" src="./images/Event/00/DSC00458-1920x1080.jpg"> |
-<img width="180" alt="image" src="./images/Event/00/DSC00462-1920x1080.jpg"> |
-<img width="180" alt="image" src="./images/Event/00/DSC00465-1920x1080.jpg"> |
-<img width="180" alt="image" src="./images/Event/00/DSC00483-1920x1080.jpg"> |
-<img width="180" alt="image" src="./images/Event/00/DSC00524-1920x1080.jpg"> |
+
 
 ### Setting up the stand
 
@@ -42,6 +38,16 @@
 
 ### Busy teams
 
+<img width="180" alt="image" src="./images/Event/05/DSC00532-1920x1080.jpg"> |
+<img width="180" alt="image" src="./images/Event/05/DSC00533-1920x1080.jpg">
+<img width="180" alt="image" src="./images/Event/05/DSC00644
+-1920x1080.jpg">
+
+## The CryptoBus Exchange
+
+<img width="180" alt="image" src="./images/Event/00/DSC00307-1620x1080-CryptoBus.jpg"> |
+<img width="180" alt="image" src="./images/Event/00/DSC00662-1620x1080-CryptoBus.jpg"> 
+
 
 ### The Workshop
 
@@ -56,9 +62,19 @@
 
 ### Teams pitches
 
-
-
-
+<img width="180" alt="image" src="./images/Event/10/DSC00688-1920x1080.jpg"> |
+<img width="180" alt="image" src="./images/Event/10/DSC00688-1920x1080.jpg"> |
+<img width="180" alt="image" src="./images/Event/10/DSC00697-1920x1080.jpg"> |
+<img width="180" alt="image" src="./images/Event/10/DSC00701-1920x1080.jpg"> |
+<img width="180" alt="image" src="./images/Event/10/DSC00707-1920x1080.jpg"> |
+<img width="180" alt="image" src="./images/Event/10/DSC00721-1920x1080.jpg"> |
+<img width="180" alt="image" src="./images/Event/10/DSC00722-1920x1080.jpg"> |
+<img width="180" alt="image" src="./images/Event/10/DSC00752-1920x1080.jpg"> |
+<img width="180" alt="image" src="./images/Event/10/DSC00772-1920x1080.jpg"> |
+<img width="180" alt="image" src="./images/Event/10/DSC00775-1920x1080.jpg"> |
+<img width="180" alt="image" src="./images/Event/10/DSC00819-1920x1080.jpg"> |
+<img width="180" alt="image" src="./images/Event/10/DSC00863-1920x1080.jpg"> |
+<img width="180" alt="image" src="./images/Event/10/DSC00866-1920x1080.jpg"> |
 
 ### Teams after pitch
 
@@ -81,11 +97,6 @@
 <img width="180" alt="image" src="./images/Event/08/DSC00986-1920x1080.jpg"> |
 <img width="180" alt="image" src="./images/Event/08/DSC00996-1920x1080.jpg"> |
 <img width="180" alt="image" src="./images/Event/08/DSC01004-1920x1080.jpg"> |
-
-
-
-### Team Prizes and Stage
-
 
 
 ## Summary of the experience
